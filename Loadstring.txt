@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://github.com/FolTakX/RobloxCapes.gg-Script-For-Roblox/blob/main/Script.txt'))()
