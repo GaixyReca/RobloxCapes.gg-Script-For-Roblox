@@ -82,7 +82,7 @@ if game.Players:FindFirstChild(User1) then
 		p.FormFactor = "Custom"
 		p.CastShadow = false  -- set this to "true" if you want to keep the shadow on your cape
 		local Decal = Instance.new('Decal', p)
-		Decal.Texture = "http://www.roblox.com/asset/?id=8878109337"
+		Decal.Texture = "http://www.roblox.com/asset/?id=8878108135"
 		Decal.Face = "Back"
 		Decal.Name = "CapeDesign"
 		local Decal2 = Instance.new('Decal', p)
@@ -143,7 +143,7 @@ if game.Players:FindFirstChild(User2) then
 		p.FormFactor = "Custom"
 		p.CastShadow = false  -- set this to "true" if you want to keep the shadow on your cape
 		local Decal = Instance.new('Decal', p)
-		Decal.Texture = "http://www.roblox.com/asset/?id=8878109337"
+		Decal.Texture = "http://www.roblox.com/asset/?id=8878108135"
 		Decal.Face = "Back"
 		Decal.Name = "CapeDesign"
 		local Decal2 = Instance.new('Decal', p)
