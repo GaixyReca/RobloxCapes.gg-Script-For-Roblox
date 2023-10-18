@@ -1,4 +1,4 @@
-local Texture = "http://www.roblox.com/asset/?id=8878109337" -- Put the Texture ID that you want on your cape here. (Note: MAKE SURE TO KEEP THE LINK!)
+local Texture = "http://www.roblox.com/asset/?id=12785830450" -- Put the Texture ID that you want on your cape here. (Note: MAKE SURE TO KEEP THE LINK!)
 local Username = "" -- Put your Username in here. (If already whitelisted, you don't need to fill this out.)
 
 if game.Players:FindFirstChild(Username) then
